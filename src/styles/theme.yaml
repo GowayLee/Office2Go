@@ -1,0 +1,14 @@
+# 默认主题配置
+default:
+  primary_color: "#007bff"
+  secondary_color: "#6c757d"
+  font_family: "Arial, sans-serif"
+  font_size: 14
+  padding: 10
+
+dark:
+  primary_color: "#0d6efd"
+  secondary_color: "#495057"
+  font_family: "Arial, sans-serif"
+  font_size: 14
+  padding: 10
